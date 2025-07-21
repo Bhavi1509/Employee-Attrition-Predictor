@@ -1,0 +1,51 @@
+StudentID,Name,Subject,Marks,Region,Date,Result
+S001,Juan Miller,English,71.48052631578948,EAST,03-04-2024,Pass
+S002,Nicole Walters,Science,71.48052631578948,WEST,03-04-2024,Pass
+S003,Paige Scott,Math,71.48052631578948,EAST,,Pass
+S004,Jennifer Steele,Math,86.83,NORTH,,Pass
+S005,Felicia Franco,Math,71.48052631578948,UNKNOWN,,Pass
+S006,Jessica Scott,Science,90.04,EAST,10-04-2024,Pass
+S007,Dr. Joshua Dyer,English,71.48052631578948,NORTH,07-04-2024,Pass
+S008,Jessica Brown,English,71.48052631578948,WEST,12-04-2024,Pass
+S009,William Nicholson,Science,71.24,SOUTH,,Pass
+S010,Kristie Rose,English,56.71,EAST,,Fail
+S011,Charles Wilson,Science,71.48052631578948,EAST,11-04-2024,Pass
+S012,Joseph Castro,English,55.58,WEST,,Fail
+S013,Jennifer Taylor,Science,71.48052631578948,UNKNOWN,,Pass
+S014,Denise West,Science,71.48052631578948,NORTH,04-04-2024,Pass
+S015,Nicholas Michael,English,55.6,UNKNOWN,,Fail
+S016,Donald Williams,Math,71.48052631578948,NORTH,,Pass
+S017,Kristi Chandler,Science,55.03,UNKNOWN,01-04-2024,Fail
+S018,Alyssa Moore,Science,71.48052631578948,SOUTH,11-04-2024,Pass
+S019,Melissa Williams,English,79.08,WEST,03-04-2024,Pass
+S020,Dustin Edwards,Science,71.48052631578948,EAST,,Pass
+S021,Nan,Math,64.92,EAST,,Fail
+S022,Jeremiah Reyes,English,71.48052631578948,WEST,03-04-2024,Pass
+S023,Kristi Gallagher,Math,71.48052631578948,SOUTH,,Pass
+S024,Justin Molina,Science,71.48052631578948,NORTH,03-04-2024,Pass
+S025,Jason Jenkins,English,71.48052631578948,WEST,,Pass
+S026,Stephen Ingram,Math,97.09,UNKNOWN,,Pass
+S027,Cassandra Mason,Math,71.48052631578948,WEST,,Pass
+S028,Mark Mitchell,Math,78.95,NORTH,03-04-2024,Pass
+S029,Justin Serrano,Math,85.01,EAST,12-04-2024,Pass
+S030,Jacob Huerta,English,71.48052631578948,NORTH,,Pass
+S031,Nan,Science,71.48052631578948,EAST,,Pass
+S032,Bradley Martin,English,52.36,EAST,,Fail
+S033,Michael Cooper,Science,86.62,SOUTH,09-04-2024,Pass
+S034,Robert Woods,Math,71.48052631578948,EAST,,Pass
+S035,Nan,Math,58.26,NORTH,,Fail
+S036,Matthew Archer,Math,71.48052631578948,NORTH,,Pass
+S037,Mr. Thomas Jones,English,65.82,SOUTH,05-04-2024,Fail
+S038,Christina Gonzalez,Math,56.4,EAST,,Fail
+S039,Brenda Watts,Science,94.3,WEST,06-04-2024,Pass
+S040,Brian Conway,Science,71.48052631578948,SOUTH,01-04-2024,Pass
+S041,Cindy Chan,English,71.48052631578948,EAST,02-04-2024,Pass
+S042,Amy Davis,Math,71.48052631578948,UNKNOWN,07-04-2024,Pass
+S043,Christopher Wilson,English,71.48052631578948,SOUTH,,Pass
+S044,Pamela Sutton,Science,71.48052631578948,UNKNOWN,,Pass
+S045,Dale Scott,English,71.48052631578948,SOUTH,,Pass
+S046,Brenda Gregory,English,71.48052631578948,SOUTH,,Pass
+S047,Steven Jackson,Science,68.29,SOUTH,,Fail
+S048,Christian Taylor,Science,71.48052631578948,UNKNOWN,10-04-2024,Pass
+S049,Gary Long,Science,71.48052631578948,EAST,04-04-2024,Pass
+S050,Nan,Math,71.48052631578948,EAST,11-04-2024,Pass
